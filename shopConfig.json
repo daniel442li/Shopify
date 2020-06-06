@@ -1,0 +1,21 @@
+{
+    "store": "saintalfred",
+    "keywords": ["PHARRELL"],
+    "size": "10",
+    "monitorDelay": 2,
+    "email": "johndoe@gmail.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "addy": "123 Main Street",
+    "apartmentNumber": "",
+    "state": "GA",
+    "country": "United States",
+    "city": "Atlanta",
+    "zipCode": "30344",
+    "phoneNumber": "678123456",
+    "nameOnCard": "John Doe",
+    "cardNumber": "0000000000000",
+    "expMonth": "05",
+    "expYear": "26",
+    "cvv": "403"
+}
