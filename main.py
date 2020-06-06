@@ -17,6 +17,5 @@ def main():
         print(colored("Coming Soon :)", "yellow"))
         pass
 
-1
 if __name__ == "__main__":
     main()
